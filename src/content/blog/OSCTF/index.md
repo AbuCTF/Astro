@@ -588,7 +588,7 @@ As given in the question, the image is actually a corrupted JPEG image, just cha
  FF D8 FF E0  <>  ......JFIF.
 ```
 
-![p4](./11.png)
+![p4](./11.jpg)
 
 
 Flag: `OSCTF{W0ah_F1l3_h34D3r5}`
